@@ -15,7 +15,7 @@ As a musician, you know the frustration of flipping through digital music scores
 
 ## Installation
 
-1. **Download the latest version** of ScoreFlip from the [releases page](#).
+1. **Download the latest version** of ScoreFlip from the [releases page](https://github.com/riccoljy/ScoreFlip/releases/tag/v1.0).
 2. **Run the installer** and follow the on-screen instructions to complete the installation.
 
 ## Usage
